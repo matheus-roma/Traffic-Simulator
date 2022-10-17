@@ -19,3 +19,5 @@ We'll be also using the [free public MQTT broker](https://www.emqx.com/en/mqtt/p
 - Broker: **broker.emqx.io**
 - TCP Port: **1883**
 - Websocket Port: **8083**
+
+In our city the idea is to use the _broker_ to represent the Control Center, the _publishers_ will be the passenger and the _clients_ (subscribers) will be the cars.
